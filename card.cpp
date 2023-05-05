@@ -1,4 +1,6 @@
 import processing.serial.*;
+#include <string>	
+using namespace std;
  
 Serial myPort;        // A porta serial
 int xPos = 1;         // posição horizontal do gráfico
