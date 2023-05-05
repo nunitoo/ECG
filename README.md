@@ -19,6 +19,7 @@
 ![Terceiro exemplo simples para análise de ECG](./img/RC.png)
 
 **O sistema deste programa ainda não é completo, portanto algumas ondas podem ser omitidas, como a onda U, que é recorrente no prolongamento do intervalo QT, sendo sinais de alerta TV do tipo TdeP iminente. Esta é uma das causas que faz deste programa um equipamento não confiável**
+**O gráfico deve ser analisado conforme sua programação no código fonte**
 
 ## Hardware usado:
 
