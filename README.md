@@ -1,15 +1,24 @@
 # Programa para monitorização ECG
 
-## Prévia
+### ⚠️ Este projeto não é aprovado para uso profissional. Em casos reais utilize equipamentos confiáveis e aprovados para o exercício dentro da medicina ou suporte à vida, seja ela básica ou avançada⚠️
+
+
+## Prévia da função
 ![Prévia do ECG](./img/p.png)
 
 **Representação simples para análise do ECG:**
 ![Representação simples para análise do ECG](./img/R.png)
 
-- Em alguns casos, é comum ver ondas P precedentes, que leva ao quadro de extrassístole ventricular, o que é nada a se preocupar, é apenas uma situação adrenérgica que pode ser controlada por betabloqueadores.
+- Em alguns casos, é comum ver ondas P precedentes, que leva ao quadro de extrassístole ventricular, o que é nada a se preocupar, é apenas uma situação adrenérgica que pode ser controlada por betabloqueadores. ⚠️ Sempre consulte um médico antes de confiar no sistema.
 - Também é comum encontrar uma repolarização ventricular, nada fora da normalidade.
 
 ![Segundo exemplo simples para análise de ECG](./img/R2.png)
+
+## Representação para especialistas da área da saúde, que pode ter omissão neste programa
+
+![Terceiro exemplo simples para análise de ECG](./img/RC.png)
+
+**O sistema deste programa ainda não é completo, portanto algumas ondas podem ser omitidas, como a onda U, que é recorrente no prolongamento do intervalo QT, sendo sinais de alerta TV do tipo TdeP iminente. Esta é uma das causas que faz deste programa um equipamento não confiável**
 
 ## Hardware usado:
 
