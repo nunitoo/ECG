@@ -6,7 +6,7 @@
 ## Prévia da função
 ![Prévia do ECG](./img/p.png)
 
-**Representação simples para análise do ECG:**
+**Breve explicação para análise do ECG:**
 ![Representação simples para análise do ECG](./img/R.png)
 
 - Em alguns casos, é comum ver ondas P precedentes, que leva ao quadro de extrassístole ventricular, o que é nada a se preocupar, é apenas uma situação adrenérgica que pode ser controlada por betabloqueadores. ⚠️ Sempre consulte um médico antes de confiar no sistema.
